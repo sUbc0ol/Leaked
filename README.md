@@ -1,4 +1,4 @@
-# About Leaked
+# About Leaked? 1.1
 Leaked? is A Checking tool for Hash codes and Passwords leaked, use API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">@webtobesocial</span></a>.
 Leaked? can work in any OS if they have support Python 3
   
@@ -16,7 +16,7 @@ Leaked? can work in any OS if they have support Python 3
     python3 leaked.py
    
 # Install and Run in Windows
-Download and run Python 3 setup file from <a href="https://python.org" target="_blank"><span style="color: blue">Python.org</span></a>:
+Download and run Python 3 setup file from <a href="https://python.org" target="_blank"><span style="color: blue">Python.org</span></a>.
 In <strong>Install Python 3 </strong>, enable <strong>Add Python 3.7 to PATH</strong> and <strong>For all users</strong>
 
 Download and run Git setup file from <a href="https://Git-scm.com" target="_blank"><span style="color: blue">Git-scm.com</span></a>, choose <strong>Use Git from Windows Command Propmt</strong>.
@@ -27,6 +27,8 @@ Afther that, Run Command Propmt or PowerShell and enter this commands:
     cd Leaked
     pip install requests
     python leaked.py
+
+# Update Leaked?: <code>git pull -f</code>
 
 # Notes
 Leaked? uses API from <a href="https://lea.kz/api" target="_blank"><span style="color: blue">lea.kz</span></a> of <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">@webtobesocial</span></a>
